@@ -1,6 +1,6 @@
 # todo-mvc
 
-## Daily coding challenges
+## To-do-list
 
 
 ### About
